@@ -30,8 +30,8 @@ This project is a simple **Dashboard UI** built using **pure HTML5 and CSS**. It
    ```
 2. Open `index.html` in your browser.
 
-## 🖼️ Screenshots
-![Dashboard Preview](assets/dashboard-preview.png)
+## 🖼️ Dashboard Preview
+[🎥 Watch the Full Video](assets/demo.mp4)
 
 ## 📌 Technologies Used
 - **HTML5** 📄
